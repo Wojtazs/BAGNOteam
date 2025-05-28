@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>5 sposobów na motywację do treningu</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 2rem;
+      background: #fff;
+      color: #333;
+      line-height: 1.6;
+    }
+    h1 {
+      color: #1abc9c;
+    }
+    img {
+      max-width: 100%;
+      margin: 1rem 0;
+      border-radius: 8px;
+      box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    }
+    ol {
+      padding-left: 1.2rem;
+    }
+    ol li {
+      margin-bottom: 1rem;
+    }
+    a {
+      color: #1abc9c;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    footer {
+      margin-top: 2rem;
+    }
+  </style>
+</head>
+<body>
+  <h1>5 sposobów na motywację do treningu</h1>
+  <img src="https://images.unsplash.com/photo-1584467735871-bc7be034c0d2?auto=format&fit=crop&w=800&q=80" alt="Osoba ćwicząca z entuzjazmem" />
+  <p>Motywacja to siła napędowa każdego sportowca – zarówno amatora, jak i zawodowca. Bez niej trudno utrzymać regularność, a osiąganie celów staje się znacznie trudniejsze. Oto pięć sprawdzonych metod, które pomogą Ci nie odpuszczać i pozostać na sportowej ścieżce:</p>
+  <ol>
+    <li><strong>Wyznaczaj realistyczne cele:</strong> Ustal konkretne i osiągalne cele. Zamiast mówić "będę ćwiczyć więcej", postaw na: "przebiegnę 5 km trzy razy w tygodniu". Realne cele pomagają uniknąć frustracji i pozwalają śledzić postępy.</li>
+    <li><strong>Znajdź partnera treningowego:</strong> Wspólny trening to nie tylko większa frajda, ale także większa motywacja. Partner pomoże Ci w chwilach zwątpienia i będzie wsparciem podczas trudniejszych momentów.</li>
+    <li><strong>Monitoruj swoje postępy:</strong> Korzystaj z aplikacji sportowych takich jak Strava czy Garmin Connect. Regularne zapisywanie wyników pozwala obserwować progres i daje ogromną satysfakcję.</li>
+    <li><strong>Nagradzaj się za wysiłek:</strong> Po tygodniu regularnych treningów pozwól sobie na małą nagrodę. Może to być zdrowy deser, dzień relaksu, a nawet nowy element sportowego ubioru.</li>
+    <li><strong>Inspiruj się innymi:</strong> Śledź konta sportowe na Instagramie, dołącz do grup biegowych na Facebooku, oglądaj filmy na YouTube. Otaczanie się pozytywnymi przykładami potrafi bardzo skutecznie pobudzić chęci do działania.</li>
+  </ol>
+  <img src="https://images.unsplash.com/photo-1605296867304-46d5465a13f1?auto=format&fit=crop&w=800&q=80" alt="Grupa sportowców wspierająca się nawzajem" />
+  <p><strong>Wnioski:</strong> Motywacja nie pojawia się znikąd. To efekt świadomych działań i budowania dobrych nawyków. Wprowadzając te proste metody, zwiększysz swoje szanse na sukces i poczujesz większą satysfakcję z treningów.</p>
+  <p>Źródło badań: <a href="https://pubmed.ncbi.nlm.nih.gov/23412391/" target="_blank" rel="noopener noreferrer">Badanie na PubMed</a></p>
+  <footer>
+    <p><a href="index.html">← Wróć do bloga</a></p>
+  </footer>
+</body>
+</html>
