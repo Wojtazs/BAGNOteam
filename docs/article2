@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Jak unikać kontuzji podczas ćwiczeń</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 2rem;
+      background: #fff;
+      color: #333;
+      line-height: 1.6;
+    }
+    h1 {
+      color: #1abc9c;
+    }
+    img {
+      max-width: 100%;
+      margin: 1rem 0;
+      border-radius: 8px;
+      box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    }
+    p {
+      margin-bottom: 1rem;
+    }
+    a {
+      color: #1abc9c;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    footer {
+      margin-top: 2rem;
+    }
+  </style>
+</head>
+<body>
+  <h1>Jak unikać kontuzji podczas ćwiczeń</h1>
+  <img src="https://images.unsplash.com/photo-1594737625785-c1fcd4f43a22?auto=format&fit=crop&w=800&q=80" alt="Osoba rozgrzewająca się przed treningiem" />
+  
+  <p>Kontuzje to jedna z największych przeszkód dla osób aktywnych fizycznie. Mogą zatrzymać Twój progres i wpłynąć negatywnie na zdrowie. Aby temu zapobiec, warto przestrzegać kilku prostych zasad:</p>
+
+  <p><strong>1. Dobra rozgrzewka przed treningiem:</strong> Rozgrzewka zwiększa przepływ krwi do mięśni i poprawia elastyczność, co zmniejsza ryzyko urazów.</p>
+
+  <p><strong>2. Stopniowe zwiększanie intensywności:</strong> Nie rzucaj się na zbyt ciężkie ćwiczenia od razu. Twoje ciało musi się przyzwyczaić do obciążenia.</p>
+
+  <p><strong>3. Używaj odpowiedniego sprzętu:</strong> Dobre buty i odpowiedni strój sportowy mogą chronić przed urazami.</p>
+
+  <p><strong>4. Słuchaj swojego ciała:</strong> Jeśli coś boli, nie ignoruj tego. Odpoczynek jest kluczowy, by uniknąć poważniejszych kontuzji.</p>
+
+  <p><strong>5. Regeneracja i rozciąganie:</strong> Po treningu poświęć czas na rozciąganie i regenerację, co pomaga mięśniom wrócić do formy.</p>
+
+  <p><strong>Wnioski:</strong> Kontuzje można skutecznie unikać, jeśli zachowamy odpowiednią ostrożność i będziemy systematyczni w dbaniu o ciało. Pamiętaj, że zdrowie jest najważniejsze, a długofalowa aktywność przynosi największe korzyści.</p>
+
+  <p>Źródło badań: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5812032/" target="_blank" rel="noopener noreferrer">Artykuł naukowy o zapobieganiu kontuzjom</a></p>
+
+  <footer>
+    <p><a href="index.html">← Wróć do bloga</a></p>
+  </footer>
+</body>
+</html>
